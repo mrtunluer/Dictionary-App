@@ -6,7 +6,7 @@ Dictionary App is an android application that adopts the Mvvm design pattern and
 ![theme-min](https://user-images.githubusercontent.com/75806927/222464294-6a35bf1f-4304-4e52-bee4-f287e9586346.png)
 ## Libraries And Technology Used
 - <a href="https://developer.android.com/jetpack/compose">Jetpack Compose</a> - Jetpack Compose is Android’s recommended modern toolkit for building native UI.
-- <a href="https://developer.android.com/topic/architecture">MVVM Architecture</a> - Model-View-ViewModel (MVVM) is a software design pattern that is structured to separate program logic and user interface controls.
+- <a href="https://developer.android.com/topic/libraries/architecture/viewmodel">MVVM Design Pattern</a> - Model-View-ViewModel (MVVM) is a software design pattern that is structured to separate program logic and user interface controls.
 - <a href="https://developer.android.com/training/dependency-injection/hilt-android">Hilt</a> - Hilt is a dependency injection library for Android that reduces the boilerplate of doing manual dependency injection in your project.
 - <a href="https://developer.android.com/training/data-storage/room">Room</a> - The Room persistence library provides an abstraction layer over SQLite to allow fluent database access while harnessing the full power of SQLite.
 - <a href="https://kotlinlang.org/docs/coroutines-overview.html">Coroutines</a> - A coroutine is a concurrency design pattern that you can use on Android to simplify code that executes asynchronously.
